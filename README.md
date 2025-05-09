@@ -1,3 +1,3 @@
 # AnimatedCard
 
-![me](https://github.com/Csengeee/AnimatedCard/blob/main/animatedcard.gif)
+![me](https://github.com/Csengeee/AnimatedCard/blob/main/image/animatedcard.gif)
