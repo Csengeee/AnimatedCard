@@ -20,4 +20,4 @@ Technologies
     -CSS: Styles and animations (e.g., transform, transition).
     -JavaScript: Event handling and dynamic animations.
 
-![me](https://github.com/Csengeee/AnimatedCard/blob/main/animatedcard.gif)
+![me](https://github.com/Csengeee/AnimatedCard/blob/main/hovercard.gif)
