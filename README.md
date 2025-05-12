@@ -20,6 +20,6 @@ Technologies
     -CSS: Styles and animations (e.g., transform, transition).
     -JavaScript: Event handling and dynamic animations.
 
-<img src="https://raw.githubusercontent.com/Csengeee/HoverCard/main/gif/hovercard.gif" width="400" alt="HoverCard" />
+<p align="center"><img src="https://raw.githubusercontent.com/Csengeee/HoverCard/main/gif/hovercard.gif" width="500"  alt="HoverCard" /></p>
 
 ![me](https://github.com/Csengeee/HoverCard/blob/main/gif/hovercard.gif)
