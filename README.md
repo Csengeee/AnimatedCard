@@ -1,6 +1,6 @@
-# AnimatedCard
+# HoverCard
 
-AnimatedCard is a simple web-based animated card component built using HTML, CSS, and JavaScript.<br>
+HoverCard is a simple web-based animated card component built using HTML, CSS, and JavaScript.<br>
 The project's goal is to display a visually appealing animated card that responds to user interactions, such as mouse movement or clicks.
 
 Main Features
